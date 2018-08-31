@@ -1,6 +1,6 @@
 # DESCRIPTION:    Filebeat
 # SOURCE:         https://github.com/rootsongjc/docker-images/tree/master/filebeat/filebeat-5.4.0
-FROM index.tenxcloud.com/jimmy/centos:7.2.1511
+FROM centos:7.2.1511
 MAINTAINER Jimmy Song <rootsongjc@gmail.com>
 
 # Install Filebeat
